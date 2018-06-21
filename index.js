@@ -10,4 +10,6 @@ You should NOT try to redefine any of the above variables.
 
 let newID = 1000000000 + oldID
 
-if currentAge.isInteger 
+if currentAge.isInteger {
+  currentAge.isInteger === true
+}
