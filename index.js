@@ -13,7 +13,7 @@ let newID = 1000000000 + oldID
 const ageIsValid = 8 
 
 if currentAge.isInteger {
-  ageIsValid === true
+  ageIsValid = true
 } else currentAge.isInteger {
-  ageIsValid === false 
+  ageIsValid = false 
 }
