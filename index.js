@@ -12,4 +12,6 @@ let newID = 1000000000 + oldID
 
 if currentAge.isInteger {
   currentAge.isInteger === true
+} else currentAge.isInteger {
+  
 }
