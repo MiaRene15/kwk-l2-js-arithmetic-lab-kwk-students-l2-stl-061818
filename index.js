@@ -15,5 +15,5 @@ const
 if currentAge.isInteger {
   currentAge.isInteger === true
 } else currentAge.isInteger {
-  
+  currentAge.isInteger === false 
 }
