@@ -14,7 +14,7 @@ let ageIsValid = Number.isInteger(currentAge)
 
 let randomNumber = Math.random()
 
-let randomInteger = Math.floor(randomNumber)
+let randomInteger = Math.round(Math.random() * 21)
 
 let randomUserID = randomNumber + 1000000000;
 
